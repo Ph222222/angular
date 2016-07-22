@@ -1,0 +1,21 @@
+{
+  "name": "Phil",
+  "authors": [
+    "ph222222 <philipbelder@gmail.com>"
+  ],
+  "description": "Project1",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
